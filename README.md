@@ -46,7 +46,7 @@ Meu nome é Vitor, estou estudando para me tornar um Desenvolvedor Web! Você n�
 
 <h3> Ah, eu faço uns designs e vendo umas camisetas maneiras também </h3>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/vitorbss12/vitorbss12/0e41d2d45b54855fec959b0b8ef9abdb6e84dc61/Break-the-Rules.png" />
 
 <h4> &nbsp;Collie Store </h4>
 
