@@ -42,23 +42,3 @@ Meu nome é Vitor, estou estudando para me tornar um Desenvolvedor Web! Você n�
 
 - &nbsp;
 <a href="https://www.linkedin.com/in/vitorbss/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/vitorbss10/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram"></a>
-
-<h3> Ah, eu faço uns designs e vendo umas camisetas maneiras também </h3>
-
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/vitorbss12/vitorbss12/0e41d2d45b54855fec959b0b8ef9abdb6e84dc61/Break-the-Rules.png" />
-
-<h4> &nbsp;Collie Store </h4>
-
-- &nbsp;
-<a href="https://www.colliestore.com.br/"><img alt="CollieStore" src="https://img.shields.io/badge/Collie Store-www.colliestore.com.br-333333?style=flat&logo=google-chrome"></a>
-- &nbsp;
-<a href="https://www.instagram.com/collie.clothing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram"></a>
-
-<h4> &nbsp;Collie Design </h4>
-
-- &nbsp;
-<a href="https://www.colliedesign.com.br/"><img alt="CollieDesign" src="https://img.shields.io/badge/Collie Design-www.colliedesign.com.br-333333?style=flat&logo=google-chrome"></a>
-- &nbsp;
-<a href="https://www.instagram.com/art.collie/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat&logo=instagram"></a>
-<a href="https://www.behance.net/colliedesign"><img alt="Behance" src="https://img.shields.io/badge/Behance-333333?style=flat&logo=Behance"></a>
