@@ -10,23 +10,23 @@ Meu nome é Vitor, sou estudante Desenvolvimento Web Full Stack na [**Trybe**](h
 
 #
 
-<div align="center">
+<div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorbss12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbss12&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 #
 **Techs:**
-  ### ![JavaScript](https://img.shields.io/badge/-JavaScript-282a36?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML-282a36?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-282a36?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/-React-282a36?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-282a36?style=for-the-badge&logo=redux) ![Node.js](https://img.shields.io/badge/-Node.JS-282a36?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-282a36?style=for-the-badge&logo=express) ![Docker](https://img.shields.io/badge/-Docker-282a36?style=for-the-badge&logo=docker) ![MySQL](https://img.shields.io/badge/-MysQL-282a36?style=for-the-badge&logo=mysql) ![Jest](https://img.shields.io/badge/-Jest-282a36?style=for-the-badge&logo=jest) ![RTL](https://img.shields.io/badge/-RTL-282a36?style=for-the-badge&logo=testing-library) ![Mocha](https://img.shields.io/badge/-Mocha-282a36?style=for-the-badge&logo=mocha) ![Chai](https://img.shields.io/badge/-Chai-282a36?style=for-the-badge&logo=chai) ![Sinon](https://img.shields.io/badge/-Sinon-282a36?style=for-the-badge) ![DialogFlow](https://img.shields.io/badge/-Dialogflow-282a36?style=for-the-badge&logo=dialogflow)
+  ### ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)![CSS3](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=282a36)![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)![Redux](https://img.shields.io/badge/-Redux-white?style=for-the-badge&logo=redux&logoColor=282a36)![Node.js](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=nodedotjs)![Express](https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=282a36)![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker)![MySQL](https://img.shields.io/badge/-MysQL-white?style=for-the-badge&logo=mysql)![Jest](https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=282a36)![RTL](https://img.shields.io/badge/-RTL-white?style=for-the-badge&logo=testing-library)![Mocha](https://img.shields.io/badge/-Mocha-white?style=for-the-badge&logo=mocha)![Chai](https://img.shields.io/badge/-Chai-white?style=for-the-badge&logo=chai&logoColor=282a36)![Sinon](https://img.shields.io/badge/-Sinon-white?style=for-the-badge)![DialogFlow](https://img.shields.io/badge/-Dialogflow-white?style=for-the-badge&logo=dialogflow)
 
 
 **Design:**
-  ### ![Illustrator](https://img.shields.io/badge/-illustrator-282a36?style=for-the-badge&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&logo=adobe-photoshop) ![AfterEffects](https://img.shields.io/badge/-afftereffects-282a36?style=for-the-badge&logo=adobeaftereffects) ![AdobeXD](https://img.shields.io/badge/-ADOBE--XD-282a36?style=for-the-badge&logo=adobe-xd) ![Blender](https://img.shields.io/badge/-blender-282a36?style=for-the-badge&logo=blender) 
+  ### ![Illustrator](https://img.shields.io/badge/-illustrator-white?style=for-the-badge&logo=adobe-illustrator)![Photoshop](https://img.shields.io/badge/-photoshop-white?style=for-the-badge&logo=adobe-photoshop)![AfterEffects](https://img.shields.io/badge/-afftereffects-white?style=for-the-badge&logo=adobeaftereffects)![AdobeXD](https://img.shields.io/badge/-ADOBE--XD-white?style=for-the-badge&logo=adobe-xd)![Blender](https://img.shields.io/badge/-blender-white?style=for-the-badge&logo=blender) 
 
 **Aprendendo:**
-  ### ![Python](https://img.shields.io/badge/-python-282a36?style=for-the-badge&logo=python) ![Next.js](https://img.shields.io/badge/-next.js-282a36?style=for-the-badge&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-typescript-282a36?style=for-the-badge&logo=typescript) ![MongoDb](https://img.shields.io/badge/-MongoDB-282a36?style=for-the-badge&logo=mongodb)
+  ### ![Python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python)![Next.js](https://img.shields.io/badge/-next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=282a36)![TypeScript](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript)![MongoDb](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
 
 #
 
 **Contato:**
-  ### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitorbss/) [![Email](https://img.shields.io/badge/-E--Mail-282a36?style=for-the-badge&logo=gmail)](mailto:vitor_bss10@hotmail.com)
+  ### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vitorbss/)[![Email](https://img.shields.io/badge/-E--Mail-white?style=for-the-badge&logo=gmail)](mailto:vitor_bss10@hotmail.com)
