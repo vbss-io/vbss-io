@@ -1,6 +1,6 @@
 # Opa! :brazil:
 
-Meu nome é Vitor, sou estudante Desenvolvimento Web Full Stack na [**Trybe**](https://www.betrybe.com/). Fiz 5 períodos de Engenharia de Computação no CEFET Petrópolis que consolidou muito bem minha lógica para programação, atualmente tenho conhecimentos avançados em Desenvolvimento Front-End e continuando meu estudos em Back-End.
+Meu nome é Vitor, sou estudante Desenvolvimento Web Full Stack na [**Trybe**](https://www.betrybe.com/). Fiz 5 períodos de Engenharia de Computação no CEFET Petrópolis que consolidou muito bem minha lógica para programação, atualmente tenho conhecimentos avançados em Desenvolvimento Front-End e continuando meus estudos em Back-End.
 
 **Sobre mim:**
 
