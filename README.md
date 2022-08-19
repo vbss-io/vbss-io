@@ -1,44 +1,32 @@
-<h2> Opa! :brazil: </h2>
+# Opa! :brazil:
 
-Meu nome é Vitor, estou estudando para me tornar um Desenvolvedor Web! Você não vai encontrar muita coisa por aqui (por enquanto), mas volta daqui um tempo em!
+Meu nome é Vitor, sou estudante Desenvolvimento Web Full Stack na [**Trybe**](https://www.betrybe.com/). Fiz 5 períodos de Engenharia de Computação no CEFET Petrópolis que consolidou muito bem minha lógica para programação, atualmente tenho conhecimentos avançados em Desenvolvimento Front-End e iniciando meu estudos em Back-End.
 
-<h4> &nbsp;Sobre mim: </h4>
+**Sobre mim:**
 
 - 🎨 &nbsp; Apaixonado por Design em todas as suas formas.
 - 🎮 &nbsp; Viciado em Pokemon e The legend of Zelda.
 - 🎓 &nbsp; Atualmente estou estudando na Trybe e futuramente quero retomar meus estudos no CEFET-RJ.
 
-<h4> &nbsp;O que estou estudando: </h4>
+#
 
-  - &nbsp; 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
-  - &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  - &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  - &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorbss12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbss12&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 
-<h4> &nbsp;O que eu já sei: </h4>
-  
-  - &nbsp; 
-  ![DialogFlow](https://img.shields.io/badge/-DialogFlow-333333?style=flat&logo=dialogflow)
-  - &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![AfterEffets](https://img.shields.io/badge/-AfterEffects-333333?style=flat&logo=adobeaftereffects)
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
-  - &nbsp;  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+#
+**Techs:**
+  ### ![JavaScript](https://img.shields.io/badge/-JavaScript-282a36?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML-282a36?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-282a36?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/-React-282a36?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-282a36?style=for-the-badge&logo=redux) ![Node.js](https://img.shields.io/badge/-Node.JS-282a36?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-282a36?style=for-the-badge&logo=express) ![Docker](https://img.shields.io/badge/-Docker-282a36?style=for-the-badge&logo=docker) ![MySQL](https://img.shields.io/badge/-MysQL-282a36?style=for-the-badge&logo=mysql) ![Jest](https://img.shields.io/badge/-Jest-282a36?style=for-the-badge&logo=jest) ![RTL](https://img.shields.io/badge/-RTL-282a36?style=for-the-badge&logo=testing-library) ![Mocha](https://img.shields.io/badge/-Mocha-282a36?style=for-the-badge&logo=mocha) ![Chai](https://img.shields.io/badge/-Chai-282a36?style=for-the-badge&logo=chai) ![Sinon](https://img.shields.io/badge/-Sinon-282a36?style=for-the-badge) ![DialogFlow](https://img.shields.io/badge/-Dialogflow-282a36?style=for-the-badge&logo=dialogflow)
 
-<h4>&nbsp;Onde você pode me achar: </h4>
 
-- &nbsp;
-<a href="https://www.linkedin.com/in/vitorbss/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin"></a>
+**Design:**
+  ### ![Illustrator](https://img.shields.io/badge/-illustrator-282a36?style=for-the-badge&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-photoshop-282a36?style=for-the-badge&logo=adobe-photoshop) ![AfterEffects](https://img.shields.io/badge/-afftereffects-282a36?style=for-the-badge&logo=adobeaftereffects) ![AdobeXD](https://img.shields.io/badge/-ADOBE--XD-282a36?style=for-the-badge&logo=adobe-xd) ![Blender](https://img.shields.io/badge/-blender-282a36?style=for-the-badge&logo=blender) 
+
+**Aprendendo:**
+  ### ![Python](https://img.shields.io/badge/-python-282a36?style=for-the-badge&logo=python) ![Next.js](https://img.shields.io/badge/-next.js-282a36?style=for-the-badge&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-typescript-282a36?style=for-the-badge&logo=typescript) ![MongoDb](https://img.shields.io/badge/-MongoDB-282a36?style=for-the-badge&logo=mongodb)
+
+#
+
+**Contato:**
+  ### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitorbss/) [![Email](https://img.shields.io/badge/-E--Mail-282a36?style=for-the-badge&logo=gmail)](mailto:vitor_bss10@hotmail.com)
